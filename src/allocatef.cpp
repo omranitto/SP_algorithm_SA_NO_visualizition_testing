@@ -1,6 +1,6 @@
-#include "stdafx.h"
-#include "global.h"
-#include "allocatef.h"
+#include "../inc/stdafx.h"
+#include "../inc/global.h"
+#include "../inc/allocatef.h"
 
 //, &module, &inv_psl, &inv_nsl, &spc
 void allocate_arrays(unsigned int  **sp_mod_array, struct block **module, unsigned int ** inv_psl, unsigned int ** inv_nsl
