@@ -1,6 +1,6 @@
 #include "stdafx.h"
-#include "global.h"
-#include "copyf.h"
+#include "../inc/global.h"
+#include "../inc/copyf.h"
 
 void SPcpy(struct st_t * sp2, struct st_t * sp1) { //copy SP order from one struct array to another
 												   //struct sp_t spc = { { -1, 13,6,9,8,1,7,2,3,4,5,11,10,12 },{ -1, 4,6,11,3,10,2,12,8,1,7,9,5,13 } };

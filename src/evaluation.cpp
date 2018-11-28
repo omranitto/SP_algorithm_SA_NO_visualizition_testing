@@ -1,6 +1,6 @@
 #include "stdafx.h"
-#include "global.h"
-#include "evaluation.h"
+#include "../inc/global.h"
+#include "../inc/evaluation.h"
 
 double boudary_calc(double Current_width, double Current_height) {
 

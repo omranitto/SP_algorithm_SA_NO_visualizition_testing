@@ -1,7 +1,7 @@
 #include "stdafx.h"
-#include "global.h"
-#include "modificationf.h"
-#include "array_arrange.h"
+#include "../inc/global.h"
+#include "../inc/modificationf.h"
+#include "../inc/array_arrange.h"
 
 int chain_set(struct sub_array *chain, char *gamma_pair, unsigned int random_count, struct st_t  *spt) {
 

@@ -1,7 +1,6 @@
-
 #include "stdafx.h"
-#include "global.h"
-#include "Csvfilemanager.h"
+#include "../inc/global.h"
+#include "../inc/Csvfilemanager.h"
 
 using namespace std;
 

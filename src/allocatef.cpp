@@ -1,4 +1,4 @@
-#include "../inc/stdafx.h"
+#include "stdafx.h"
 #include "../inc/global.h"
 #include "../inc/allocatef.h"
 

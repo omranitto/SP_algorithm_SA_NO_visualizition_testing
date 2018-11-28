@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "global.h"
+#include "../inc/global.h"
 
 int randomly_select(unsigned int  *sp_mod_array, unsigned int *f, unsigned int *s, struct st_t  *spc) {
 

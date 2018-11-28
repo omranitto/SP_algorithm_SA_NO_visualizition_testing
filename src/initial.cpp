@@ -1,6 +1,6 @@
 #include "stdafx.h"
-#include "global.h"
-#include "initial.h"
+#include "../inc/global.h"
+#include "../inc/initial.h"
 
 
 

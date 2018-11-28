@@ -1,6 +1,6 @@
 #include "stdafx.h"
-#include "global.h"
-#include "readf.h"
+#include "../inc/global.h"
+#include "../inc/readf.h"
 
 #define READ_CSV_FILE 
 

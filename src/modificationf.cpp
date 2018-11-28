@@ -1,6 +1,6 @@
 #include "stdafx.h"
-#include "global.h"
-#include "modificationf.h"
+#include "../inc/global.h"
+#include "../inc/modificationf.h"
 
 
 void module_rotation(int index, struct st_t *sp, struct st_t *spc) {

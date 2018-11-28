@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "C:\Users\kaneko-lab\Desktop\SP_algorithm_SA_NO_visualizition_testing__version_22Nov\stdafx.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "global.h"
+#include "../inc/global.h"
 
 //Outfilename, module, spc,
 int print_module(FILE * fp, struct block *module, struct st_t sp, double temp) {

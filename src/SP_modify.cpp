@@ -1,7 +1,7 @@
 #include "stdafx.h"
-#include "SP_modify.h"
-#include "global.h"
-#include "copyf.h"
+#include "../inc/SP_modify.h"
+#include "../inc/global.h"
+#include "../inc/copyf.h"
 
 
 

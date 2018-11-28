@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "global.h"
+#include "../inc/global.h"
 //#include "coordinate_calc.h"
 void coordinate_calc(double * Current_width, double * Current_height, struct block *module, struct st_t *spc, unsigned int * inv_psl) {
 	unsigned int l, K_ID, L_ID, K_indexPos;

@@ -1,7 +1,7 @@
 // testStruct.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+#include "../inc/stdafx.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

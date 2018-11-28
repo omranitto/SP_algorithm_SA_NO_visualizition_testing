@@ -147,40 +147,39 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="allocatef.h" />
-    <ClInclude Include="array_arrange.h" />
-    <ClInclude Include="chainidentifier.h" />
-    <ClInclude Include="coordinate_calc.h" />
-    <ClInclude Include="copyf.h" />
-    <ClInclude Include="Csvfilemanager.h" />
-    <ClInclude Include="evaluation.h" />
-    <ClInclude Include="global.h" />
-    <ClInclude Include="initial.h" />
-    <ClInclude Include="modificationf.h" />
-    <ClInclude Include="printf.h" />
-    <ClInclude Include="readf.h" />
-    <ClInclude Include="SP_modify.h" />
+    <ClInclude Include="inc\allocatef.h" />
+    <ClInclude Include="inc\array_arrange.h" />
+    <ClInclude Include="inc\chainidentifier.h" />
+    <ClInclude Include="inc\coordinate_calc.h" />
+    <ClInclude Include="inc\copyf.h" />
+    <ClInclude Include="inc\Csvfilemanager.h" />
+    <ClInclude Include="inc\evaluation.h" />
+    <ClInclude Include="inc\global.h" />
+    <ClInclude Include="inc\initial.h" />
+    <ClInclude Include="inc\modificationf.h" />
+    <ClInclude Include="inc\printf.h" />
+    <ClInclude Include="inc\readf.h" />
+    <ClInclude Include="inc\SP_modify.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="allocatef.cpp" />
-    <ClCompile Include="array_arrange.cpp" />
-    <ClCompile Include="chainidentifier.cpp" />
-    <ClCompile Include="coordinate_calc.cpp" />
-    <ClCompile Include="copyf.cpp" />
-    <ClCompile Include="Csvfilemanager.cpp" />
-    <ClCompile Include="evaluation.cpp" />
-    <ClCompile Include="initial.cpp" />
-    <ClCompile Include="modificationf.cpp" />
-    <ClCompile Include="printf.cpp" />
-    <ClCompile Include="readf.cpp" />
-    <ClCompile Include="SP_algorithm_SA.cpp" />
-    <ClCompile Include="SP_modify.cpp" />
+    <ClCompile Include="src\allocatef.cpp" />
+    <ClCompile Include="src\array_arrange.cpp" />
+    <ClCompile Include="src\chainidentifier.cpp" />
+    <ClCompile Include="src\coordinate_calc.cpp" />
+    <ClCompile Include="src\copyf.cpp" />
+    <ClCompile Include="src\Csvfilemanager.cpp" />
+    <ClCompile Include="src\evaluation.cpp" />
+    <ClCompile Include="src\initial.cpp" />
+    <ClCompile Include="src\modificationf.cpp" />
+    <ClCompile Include="src\printf.cpp" />
+    <ClCompile Include="src\readf.cpp" />
+    <ClCompile Include="src\SP_algorithm_SA.cpp" />
+    <ClCompile Include="src\SP_modify.cpp" />
+    <ClCompile Include="src\testStruct.cpp" />
     <ClCompile Include="stdafx.cpp">
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
   </ItemGroup>
